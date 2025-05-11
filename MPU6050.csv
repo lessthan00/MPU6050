@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","Datasheet","Qty","DNP","Exclude from BOM","Exclude from Board"
+"C1","10nF","PCM_Capacitor_SMD_AKL:C_1206_3216Metric","~","1","","",""
+"C2,C3","100nF","PCM_Capacitor_SMD_AKL:C_1206_3216Metric","~","2","","",""
+"C4","2.2nF","PCM_Capacitor_SMD_AKL:C_1206_3216Metric","~","1","","",""
+"J1","Conn_01x03","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","1","","",""
+"J2","Conn_01x07","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical","~","1","","",""
+"R1,R2","10K","PCM_Resistor_SMD_AKL:R_1206_3216Metric","~","2","","",""
+"U1","MPU-6050","Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias","https://www.jlc-smt.com/lcsc/detail?componentCode=C24112","1","","",""
